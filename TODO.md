@@ -1,8 +1,8 @@
 # Términos botánicos
-- [] Completar md
-- [] Preguntarle al chatgpt si hay mas
-- [] Asignar valor binario a cada uno
-- [] Estimar cantidad de terminaos que podamos asignar en el futuro
+- [ ] Completar md
+- [ ] Preguntarle al chatgpt si hay mas
+- [ ] Asignar valor binario a cada uno
+- [ ] Estimar cantidad de terminaos que podamos asignar en el futuro
   
 # Elegir una base de datos (uno de los dos)
 ## SQLite
